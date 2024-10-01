@@ -100,7 +100,10 @@ const Confirmation = () => {
                             type="submit"
                             className="bg-green-600 text-white py-2 px-4 rounded-lg font-medium transition duration-300 hover:bg-green-500 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-opacity-50 mt-6"
                         >
-                            Enviar Código
+                            Enviar Código 13
+                            
+
+
                         </button>
                     </div>
                 </form>
@@ -114,3 +117,7 @@ const Confirmation = () => {
 };
 
 export default Confirmation;
+
+
+
+
