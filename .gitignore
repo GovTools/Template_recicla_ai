@@ -5,6 +5,9 @@ node_modules
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+!node_modules/@next/swc-linux-x64-gnu/next-swc.linux-x64-gnu.node
+!node_modules/@next/swc-linux-x64-musl/next-swc.linux-x64-musl.node
+
 
 # testing
 /coverage
