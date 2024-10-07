@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Coleta Seletiva de Gravataí",
+  title: "",
   description: "Receba notificações quando o caminhão de coleta estiver próximo de você.",
   keywords: "coleta seletiva, Gravataí, notificações, sustentabilidade",
   
